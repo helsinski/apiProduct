@@ -6,63 +6,63 @@
             "slug": "enchabte-linen-shirt",
             "image": "product1",
             "price": 279900,
-            "deskripsi": ""
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         },
         {
             "id": "2",
-            "name": "Enchanté Linen Shirt",
-            "slug": "enchabte-linen-shirt",
+            "name": "Suit Waitcoast Slim Fit",
+            "slug": "suit-waitcoast-slim-fit",
             "image": "product2",
-            "price": 279900,
-            "deskripsi": ""
+            "price": 499900,
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         },
         {
             "id": "3",
-            "name": "Enchanté Linen Shirt",
-            "slug": "enchabte-linen-shirt",
+            "name": "NYC Hoodie Kids",
+            "slug": "nyc-hoodie-kids",
             "image": "product3",
-            "price": 279900,
-            "deskripsi": ""
+            "price": 379900,
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         },
         {
             "id": "4",
-            "name": "Enchanté Linen Shirt",
-            "slug": "enchabte-linen-shirt",
+            "name": "Ribbed Jersey Dress",
+            "slug": "ribbed-jersey-dress",
             "image": "product4",
-            "price": 279900,
-            "deskripsi": ""
+            "price": 199900,
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         },
         {
             "id": "5",
-            "name": "Enchanté Linen Shirt",
-            "slug": "enchabte-linen-shirt",
+            "name": "Oversized Fit Cotton T-shirt",
+            "slug": "oversized-fit-cotton-t-shirt",
             "image": "product5",
-            "price": 279900,
-            "deskripsi": ""
+            "price": 199900,
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         },
         {
             "id": "6",
-            "name": "Enchanté Linen Shirt",
-            "slug": "enchabte-linen-shirt",
+            "name": "Cotton Bucket Hat",
+            "slug": "cotton-bucket-hatt",
             "image": "product6",
-            "price": 279900,
-            "deskripsi": ""
+            "price": 89900,
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         },
         {
             "id": "7",
-            "name": "Enchanté Linen Shirt",
-            "slug": "enchabte-linen-shirt",
+            "name": "Basic Shirt Top",
+            "slug": "basic-shirt-top",
             "image": "product7",
-            "price": 279900,
-            "deskripsi": ""
+            "price": 149900,
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         },
         {
             "id": "8",
-            "name": "Enchanté Linen Shirt",
-            "slug": "enchabte-linen-shirt",
+            "name": "Amour de Paris Sweatshirt",
+            "slug": "amour-de-paris-sweatshirt",
             "image": "product8",
-            "price": 279900,
-            "deskripsi": ""
+            "price": 529900,
+            "deskripsi": "Straight-cut shirt in airy linen with a collar, buttons down the front and a double-layered yoke with a pleat at the back. Gently dropped shoulders, long sleeves with buttoned cuffs, an open chest pocket and a rounded hem. Slightly longer at the back."
         }
     ]
 }
